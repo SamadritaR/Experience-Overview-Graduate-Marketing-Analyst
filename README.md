@@ -4,7 +4,7 @@
 
 **Role**: Graduate Student Assistant (GSA)  
 **Department**: Office of Graduate Studies  
-**Duration**: October 2024 – Present  
+**Duration**: October 2024 – May 2025  
 **Focus**: Data Analysis | Reporting Automation | Content Design | Student Engagement | Cross-functional Collaboration
 
 This role was about much more than reports and flyers — it was about helping a university department run smarter. From building pipelines to designing Cascade pages and running targeted outreach campaigns, I contributed across technical, operational, and creative fronts.
