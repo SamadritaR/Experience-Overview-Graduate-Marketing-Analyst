@@ -41,13 +41,13 @@ Cut manual effort by 40% and improved report consistency and reliability by 70%.
 
 ---
 
-## 3. Executive Dashboarding with Tableu
+## 3. Executive Dashboarding with Tableau
 
 **Context:**  
 Visibility into enrollment, funding, and participation data needed to be enhanced. Static reports weren’t scalable.
 
 **How I did it:**
-- Designed Tableu dashboards to track KPIs by department and program type.
+- Designed Tableau dashboards to track KPIs by department and program type.
 - Integrated with Excel-based data sources and built filters for user-specific views.
 - Iterated design based on stakeholder feedback to improve decision-making clarity.
 
