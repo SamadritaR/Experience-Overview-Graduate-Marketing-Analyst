@@ -1,6 +1,6 @@
-# Experience-Overview : Graduate-Student-Assistant
+# Experience-Overview : Graduate-Student-Marketing-Analyst
 
-# Graduate Student Assistant – Office of Graduate Studies, Cal State East Bay
+# Graduate-Student-Marketing-Analyst – Office of Graduate Studies, Cal State East Bay
 
 **Role**: Graduate Student Assistant (GSA)  
 **Department**: Office of Graduate Studies  
