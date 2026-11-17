@@ -2,7 +2,7 @@
 
 ## Graduate-Marketing-Analyst – Office of Graduate Studies, Cal State East Bay
 
-**Role**: Graduate Student Assistant (GSA)  
+**Role**: Graduate Marketing Analyst  
 **Department**: Office of Graduate Studies  
 **Duration**: October 2024 – May 2026  
 **Focus**: Data Analysis | Reporting Automation | Content Design | Student Engagement | Cross-functional Collaboration
